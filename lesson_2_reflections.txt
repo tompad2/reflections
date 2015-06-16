@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Git get info about whats in the repository, however git do not add the
+files to a commit yet, I need to add them before doing a commit
